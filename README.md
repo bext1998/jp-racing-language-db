@@ -40,7 +40,7 @@ scripts/
 
 ## 用 AI 貢獻詞條
 
-本 repo 設計為支援 Claude Code 搭配內建 subagent 協作貢獻。`.claude/agents/` 提供以下角色：
+本 repo 同時支援 **Claude Code** 與 **Codex** 搭配內建 subagent 協作貢獻。兩套工具使用相同的四個 agent 角色：
 
 | Agent | 職責 |
 |---|---|
@@ -49,11 +49,30 @@ scripts/
 | `fact-checker` | 核對定義正確性、找出重複或矛盾詞條 |
 | `editor` | 校對格式、表格對齊、語句一致性 |
 
-**貢獻流程（使用 Claude Code）：**
+### 使用 Claude Code
+
+Agent 定義位於 `.claude/agents/`，Claude Code 會自動載入。
 
 1. Clone 此 repo，用 Claude Code 開啟
 2. 閱讀 `docs/racing-language/INDEX.md` 了解分類地圖
 3. 閱讀 `CLAUDE.md` 了解詞條格式與工作規則
+4. 查重後再新增詞條：
+   ```powershell
+   ./scripts/check-racing-entry.ps1 -Query "候選詞"
+   ```
+5. 新增或修改後執行一致性驗證：
+   ```powershell
+   ./scripts/validate-racing-language.ps1
+   ```
+6. 提交 Pull Request
+
+### 使用 Codex
+
+Agent 定義位於 `.codex/config.toml`，Codex 會自動載入同一套四個角色。
+
+1. Clone 此 repo，在 Codex 環境中開啟
+2. 閱讀 `docs/racing-language/INDEX.md` 了解分類地圖
+3. 閱讀 `AGENTS.md` 了解詞條格式與工作規則
 4. 查重後再新增詞條：
    ```powershell
    ./scripts/check-racing-entry.ps1 -Query "候選詞"
