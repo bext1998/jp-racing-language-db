@@ -1,0 +1,13 @@
+# 個人內容創作工作流，不屬於公開資料庫
+content/
+
+# Claude Code 本機設定（含個人權限與環境設定）
+.claude/settings.local.json
+
+# 作業系統暫存
+.DS_Store
+Thumbs.db
+
+# 編輯器暫存
+*.swp
+*.swo

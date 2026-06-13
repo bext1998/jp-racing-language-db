@@ -1,0 +1,438 @@
+# 來源政策
+
+## 來源等級
+
+| 等級 | 定義 | 可用範圍 |
+|---|---|---|
+| A | 高可信中文來源，例如 HKJC 官方中文投注規例、賠率頁、海外賽事中文出馬表。 | 可決定中文主譯名或馬名；仍需避免過度延伸。 |
+| B | 高可信原文或英文來源，例如 JRA / Horse Racing in Japan、JRA English、netkeiba 英文版、官方或準官方賽事資料。 | 可支撐制度、英文對照、馬匹基本資料；中文譯名若非官方應標 `暫定` 或 `需確認`。 |
+| C | 背景補充來源，例如維基百科或一般賽馬介紹。 | 只補背景，不單獨決定主譯名。 |
+| D | 待確認資料，例如語境推定、社群常用、暫無正式來源。 | 可暫收詞條，但譯名狀態需為 `暫定` 或 `需確認`。 |
+
+## 已使用來源
+
+- HKJC World Pool 投注種類：`https://worldpool.hkjc.com/zh-HK/about/bet-types/`
+- HKJC 賽馬博彩規例第一章定義：`https://www.hkjc.com/chinese/betting/template_betting_rule_files/pdf_ch/horserace_rule_1_chi.pdf`
+- HKJC 賽馬投注資料：`https://is.hkjc.com/AOSBS/help/ch/HR_Guide.html`
+- HKJC 日本盃 2019 出馬表：`https://racing.hkjc.com/racing/overseas/chinese/20191222/S1/6/entries.aspx`
+- HKJC 日本盃 2020 出馬表：`https://racing.hkjc.com/racing/overseas/chinese/20201129/S1/1/entries.aspx`
+- Horse Racing in Japan / JRA betting guide for NAR：`https://japanracing.jp/en/racing/go_racing/local_howtobet.html`
+- JRA English Race Card & Results：`https://jra.jp/JRAEN/AP/common/main`
+- Horse Racing in Japan JRA racing guide PDF：`https://japanracing.jp/en/jpn-racing/guide/pdf/horseracing_en_JRA_Racing.pdf`
+- Horse Racing in Japan guidebook：`https://japanracing.jp/_pdf/jpn-racing/hrij_guidebook2022.pdf`
+- JRA owner FAQ：`https://www.jra.go.jp/owner/howto/regist/pdf/katsudou_en.pdf`
+- Horse Racing in Japan graded races list：`https://japanracing.jp/en/racing/schedule/graded/list/`
+- netkeiba English Equinox：`https://en.netkeiba.com/db/horse/2019105219/`
+- netkeiba English Almond Eye：`https://en.netkeiba.com/db/horse/2015104961/`
+- netkeiba English Deep Impact：`https://en.netkeiba.com/db/horse/2002100816/`
+- netkeiba English Contrail：`https://en.netkeiba.com/db/horse/2017101835/`
+- Wikipedia Horse racing in Japan：`https://en.wikipedia.org/wiki/Horse_racing_in_Japan`
+- Wikipedia List of Japanese flat horse races：`https://en.wikipedia.org/wiki/List_of_Japanese_flat_horse_races`
+- Wikipedia horse pages for background only：Deep Impact、Almond Eye、Contrail、Equinox。
+- British Horseracing Authority glossary of race types：`https://www.britishhorseracing.com/regulation/glossary-of-race-types/`
+- The Jockey Club racing glossary：`https://www.thejockeyclub.co.uk/the-racing/racing-explained/glossary/`
+- Racing Victoria handicapping：`https://www.racingvictoria.com.au/racing/handicapping`
+- France Galop racing terms：`https://www.france-galop.com/en/understand-the-races/racing-terms`
+- France Galop racing step-by-step categories：`https://billetterie.france-galop.com/en/horse-racing-step-by-steps/`
+- netkeiba English Lord Kanaloa：`https://en.netkeiba.com/db/horse/2008103552/`
+- netkeiba English Kitasan Black：`https://en.netkeiba.com/db/horse/2012102013/`
+- netkeiba English Orfevre：`https://en.netkeiba.com/db/horse/2008102636/`
+- netkeiba English Gentildonna：`https://en.netkeiba.com/db/horse/2009106253/`
+- HKJC Lord Kanaloa horse page：`https://racing.hkjc.com/zh-hk/local/information/horse?horseid=HK_2012_P602`
+- Chinese Wikipedia horse pages for background only：北部玄駒、黃金巨匠。
+- HKJC Japan Cup 2013 entries：`https://racing.hkjc.com/racing/overseas/chinese/20131124/S1/1/entries.aspx`
+- HKJC Japan Cup 2014 reference odds：`https://racing.hkjc.com/racing/overseas/chinese/20141130/S1/1/reference-odds.aspx`
+- HKJC Arima Kinen 2014 entries：`https://racing.hkjc.com/racing/overseas/chinese/20141228/S1/1/entries.aspx`
+- HKJC Arima Kinen 2014 reference odds：`https://racing.hkjc.com/racing/overseas/chinese/20141228/S1/1/reference-odds.aspx`
+- HKJC Takarazuka Kinen 2013 expert column：`https://racing.hkjc.com/racing/overseas/chinese/20130623/S2/1/expert-column.aspx`
+- HKJC Japan Cup and Dubai simulcast PDFs for Buena Vista and Vodka：`https://racing.hkjc.com/racing/content/PDF/RaceCard/CO22919/`
+- netkeiba English Gold Ship：`https://en.netkeiba.com/db/horse/2009102739/`
+- netkeiba English Buena Vista：`https://en.netkeiba.com/db/horse/2006103319/`
+- netkeiba English Vodka：`https://en.netkeiba.com/db/horse/2004104258/`
+- netkeiba English Daiwa Scarlet：`https://en.netkeiba.com/db/horse/2004103198/`
+- netkeiba English Just A Way：`https://en.netkeiba.com/db/horse/2009106461/`
+- Horse Racing in Japan individual G1 pages under graded race list：Japan Cup、Arima Kinen、Takarazuka Kinen、Tenno Sho、Yasuda Kinen、Sprinters Stakes、February Stakes。
+- Horse Racing in Japan JBIS overview：`https://japanracing.jp/en/about/jbis.html`
+- Horse Racing in Japan JRA Training Centers：`https://japanracing.jp/en/about/jra/center.html`
+- HKJC horse information pages for sire, dam, dam's sire, owner, trainer, rating and records：`https://racing.hkjc.com/en-us/local/information/horse`
+- Horse Racing in Japan JRA racecourses：`https://japanracing.jp/en/racing/go_racing/jra_racecourses/`
+- Horse Racing in Japan racecourses and OTB facilities：`https://japanracing.jp/en/racing/go_racing/guide/course.html`
+- Horse Racing in Japan Racing by Local Governments：`https://japanracing.jp/en/about/local_racing.html`
+- Horse Racing in Japan NAR racecourses：`https://japanracing.jp/en/racing/go_racing/local_racecourses/`
+- Racing by Local Governments NAR English：`https://www.goracing.jp/english/`
+- netkeiba English Narita Brian：`https://en.netkeiba.com/db/horse/1991108889/`
+- netkeiba English Tokai Teio：`https://en.netkeiba.com/db/horse/1988101025/`
+- netkeiba English Mejiro McQueen：`https://en.netkeiba.com/db/horse/1987107235/`
+- netkeiba English Special Week：`https://en.netkeiba.com/db/horse/1995103211/`
+- JBIS Narita Brian：`https://www.jbis.jp/horse/0000249114/`
+- JBIS Tokai Teio：`https://www.jbis.jp/horse/0000207623/`
+- JBIS Mejiro McQueen：`https://www.jbis.jp/horse/0000203356/`
+- HKJC Register of Approved Gear：`https://racing.hkjc.com/racing/english/racing-info/reg_approved_gear.aspx`
+- HKJC 認可馬匹配備紀錄冊：`https://racing.hkjc.com/racing/chinese/racing-info/reg_approved_gear.aspx`
+- HKJC Equipment Register Chinese PDF：`https://racing.hkjc.com/racing/Chinese/racing-info/rules_pdf/Equipment-Register-Full-202409-Chinese.pdf`
+- HKJC overseas entries equipment abbreviations for Shadow Roll / Cheek Pieces：`https://racing.hkjc.com/racing/overseas/chinese/20120225/S1/4/entries.aspx?para=%2F20120225%2FS1%2F4`
+- HKJC overseas entries equipment abbreviations for Sheepskin Cheek Pieces：`https://racing.hkjc.com/racing/overseas/chinese/20191105/S1/1/entries.aspx?para=%2F20191105%2FS1%2F1`
+- Chinese Taipei Equestrian Association FEI jumping saddlery and equipment Chinese guide：`https://www.ctea.org.tw/download/Waldo-2023.pdf`
+- JRA racing gear / equipment：`https://japanracing.jp/en/horsemen/rule/special.html`
+- JRA Race Card & Results update process：`https://jra.jp/JRAEN/AP/common/main`
+- netkeiba English Sodashi：`https://en.netkeiba.com/db/horse/2018105233/`
+- netkeiba English Apapane：`https://en.netkeiba.com/db/horse/2007103234/`
+- netkeiba English Kurofune：`https://en.netkeiba.com/db/horse/1998110135/`
+- netkeiba English King Kamehameha：`https://en.netkeiba.com/db/horse/2001103460/`
+- netkeiba English Epiphaneia：`https://en.netkeiba.com/db/horse/2010104155/`
+- netkeiba English Harp Star：`https://en.netkeiba.com/db/horse/2011104000/`
+- Breeders' Cup official program：`https://breederscup.com/program`
+- Dubai Racing Club：`https://dubairacingclub.com/`
+- France Galop Qatar Prix de l'Arc de Triomphe：`https://billetterie.france-galop.com/en/event/qatar-prix-de-larc-de-triomphe/`
+- Ascot British Champions Day background：`https://www.ascot.com/content/worlds-best-confirmed-and-set-for-qipco-british-champions-day`
+- Wikipedia Queen Elizabeth II Stakes for background only：`https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Stakes`
+- HKJC Loves Only You horse page：`https://racing.hkjc.com/racing/information/English/Horse/Horse.aspx?HorseId=HK_2019_D821`
+- netkeiba English Loves Only You：`https://en.netkeiba.com/db/horse/2016104648/`
+- netkeiba English Marche Lorraine：`https://en.netkeiba.com/db/horse/2016104426/`
+- netkeiba English Panthalassa：`https://en.netkeiba.com/db/horse/2017106711/`
+- netkeiba English Forever Young：`https://en.netkeiba.com/db/horse/2021105727/`
+- Wikipedia horse pages for background only：Marche Lorraine、Panthalassa、Forever Young。
+- Kentucky Derby Triple Crown：`https://www.kentuckyderby.com/triple-crown/`
+- The Jockey Club What is a Classic：`https://www.thejockeyclub.co.uk/the-racing/racing-explained/flat-racing/what-is-a-classic/`
+- Racing Victoria feature race conditions：`https://www.racingvictoria.com.au/racing/feature-race-conditions`
+- Australian Turf Club Everest Day：`https://www.australianturfclub.com.au/races/everest-day/`
+- Australian Turf Club TAB Everest how it works：`https://www.australianturfclub.com.au/tab-everest-how-it-works/`
+- Melbourne Racing Club Caulfield Cup：`https://mrc.racing.com/racing/racing-information/feature-race-information/caulfield-cup`
+- Moonee Valley Racing Club Cox Plate Carnival：`https://www.thevalley.com.au/ladbrokes-cox-plate-carnival`
+- netkeiba English Sunday Silence：`https://en.netkeiba.com/db/horse/000a00033a/`
+- netkeiba English Heart's Cry：`https://en.netkeiba.com/db/horse/2001103038/`
+- netkeiba English El Condor Pasa：`https://en.netkeiba.com/db/horse/1995108742/`
+- netkeiba English Cesario：`https://en.netkeiba.com/db/horse/2002100844/`
+- Horse Racing in Japan JRA Rules of Racing：`https://japanracing.jp/en/horsemen/jra_rules/rules_racing.html`
+- HKJC Rules of Racing FAQ / Racing control video：`https://racing.hkjc.com/en-us/showcase/racing-control-video`
+- netkeiba English Agnes Tachyon：`https://en.netkeiba.com/db/horse/1998101516/`
+- netkeiba English Manhattan Cafe：`https://en.netkeiba.com/db/horse/1998101554/`
+- netkeiba English Admire Moon：`https://en.netkeiba.com/db/horse/2003102991/`
+- netkeiba English Daiwa Major：`https://en.netkeiba.com/db/horse/2001103114/`
+- netkeiba English Neo Universe：`https://en.netkeiba.com/db/horse/2000101426/`
+- netkeiba English Dream Journey：`https://en.netkeiba.com/db/horse/2004102753/`
+- The Jockey Club racehorse types：`https://www.thejockeyclub.co.uk/the-racing/racing-explained/racehorses/types-of-racehorse/`
+- Horse Racing in Japan Breeding and Sales：`https://japanracing.jp/en/about/breeding/`
+- netkeiba English Symboli Rudolf：`https://en.netkeiba.com/db/horse/1981107017/`
+- netkeiba English Taiki Shuttle：`https://en.netkeiba.com/db/horse/1994109686/`
+- netkeiba English Mayano Top Gun：`https://en.netkeiba.com/db/horse/1992102988/`
+- netkeiba English Grass Wonder：`https://en.netkeiba.com/db/horse/1995108676/`
+- netkeiba English Sakura Bakushin O：`https://en.netkeiba.com/db/horse/1989108341/`
+- netkeiba English Sakura Laurel：`https://en.netkeiba.com/db/horse/1991103498/`
+- Horse Racing in Japan International Jump Races：`https://japanracing.jp/en/horsemen/itn_jump_races/`
+- Horse Racing in Japan Nakayama Grand Jump course description：`https://japanracing.jp/en/horsemen/itn_jump_races/nakayama_grand_jump/course.html`
+- Banei Tokachi English guide：`https://banei-keiba.or.jp/language/index_en.php`
+- Horse Racing in Japan Obihiro Racecourse：`https://www.goracing.jp/english/racecourse/obihiro.html`
+- netkeiba English dirt graded stakes list：`https://en.netkeiba.com/library/detail.html?no=208`
+- Racing by Local Governments JBC Classic：`https://www.goracing.jp/english/upload/2024/39_jbcclassic/39_jbcclassic.html`
+- Racing by Local Governments Teio Sho：`https://www.goracing.jp/english/upload/2024/20_teiosho/20_teiosho.html`
+- Racing by Local Governments Japan Dirt Classic：`https://www.goracing.jp/english/upload/2025/33_japandirtclassic/33_japandirtclassic.html`
+- Horse Racing in Japan Oi Racecourse：`https://japanracing.jp/en/racing/go_racing/local_racecourses/n11.html`
+- netkeiba English Oju Chosan：`https://en.netkeiba.com/db/horse/2011101125/`
+- netkeiba English Meisho Dassai：`https://en.netkeiba.com/db/horse/2013104138/`
+- HKJC international racing overview：`https://racing.hkjc.com/racing/chinese/international-racing/index.aspx`
+- HKJC Hong Kong Pattern Races：`https://racing.hkjc.com/zh-hk/pattern-races/index`
+- HKJC key races schedule：`https://racing.hkjc.com/zh-hk/pattern-races/key-races`
+- HKJC Happy Valley Racecourse：`https://entertainment.hkjc.com/zh-hk/visit-us/happy-valley-racecourse`
+- Hong Kong Tourism Board Sha Tin Racecourse：`https://www.discoverhongkong.com/tc/place-to-go/travel.guide-sha-tin-racecourse.html`
+- HKJC horse international ratings for Ka Ying Rising：`https://racing.hkjc.com/racing/chinese/international-racing/hk-int-rating/hk-int-rating-115.aspx`
+- HKJC racecard PDF for Romantic Warrior：`https://racing.hkjc.com/racing/content/PDF/RaceCard/20260301_starter_all.pdf`
+- HKJC HKIR form guide for Golden Sixty：`https://racing.hkjc.com/image/202311/2023HKIR_Formguide_Eng.pdf`
+- HKJC racecard PDF for Ka Ying Rising：`https://racing.hkjc.com/racing/content/PDF/RaceCard/20260426_starter_all.pdf`
+- HKJC racecard PDF for Lucky Sweynesse：`https://racing.hkjc.com/racing/content/PDF/RaceCard/20260426_starter_r7.pdf`
+- HKJC Hong Kong Pattern Races legacy English fixture：`https://racing.hkjc.com/racing/english/racing-info/1819_menu_patternrace_list_group.asp`
+- HKJC Stewards' Cup：`https://racing.hkjc.com/racing/english/international-racing/stewards-cup.aspx`
+- HKJC Centenary Sprint Cup：`https://racing.hkjc.com/racing/english/international-racing/centenary-sprint-cup.aspx`
+- HKJC Hong Kong Gold Cup：`https://racing.hkjc.com/racing/english/international-racing/hong-kong-gold-cup.aspx`
+- HKJC Queen's Silver Jubilee Cup：`https://racing.hkjc.com/racing/english/international-racing/queen-silver-jubilee-cup.aspx`
+- HKJC Champions & Chater Cup：`https://racing.hkjc.com/racing/english/international-racing/champions-chater-cup.aspx`
+- Australian Turf Club history timeline / The Championships：`https://www.australianturfclub.com.au/history-timeline/`
+- Australian Turf Club Doncaster/Derby Day：`https://www.australianturfclub.com.au/autumn-everest-feel-at-royal-randwick-for-doncaster-derby-day/`
+- Australian Turf Club Golden Eagle Day：`https://www.australianturfclub.com.au/races/golden-eagle-day/`
+- Victoria Racing Club Victoria Derby Day：`https://www.vrc.com.au/race-days-and-events/2026-2027/howden-victoria-derby-day/`
+- Racing.com Winx profile：`https://www.racing.com/horses/winx-961626`
+- Racing.com Black Caviar profile：`https://www.racing.com/horses/black-caviar-790716`
+- Racing.com Makybe Diva profile：`https://www.racing.com/horses/makybe-diva-gb-611244`
+- Wikipedia Golden Slipper Stakes for background only：`https://en.wikipedia.org/wiki/Golden_Slipper_Stakes`
+- Wikipedia Nature Strip and Verry Elleegant horse pages for background only。
+- France Galop Qatar Prix du Jockey Club：`https://billetterie.france-galop.com/en/event/qatar-prix-du-jockey-club/`
+- France Galop Prix de Diane Longines：`https://billetterie.france-galop.com/en/event/prix-de-diane-longines/`
+- France Galop Prix Jean Prat history：`https://www.france-galop.com/en/content/haras-detreham-jean-prat-history-new-trip-3yo-flyers`
+- France Galop Prix Jacques Le Marois history：`https://www.france-galop.com/fr/content/historique-du-prix-jacques-le-marois-sommet-europeen-des-milers`
+- Irish Champions Festival Day 2 Curragh racing：`https://www.irishchampionsfestival.ie/day-2-the-curragh/racing`
+- Curragh Irish Champions Festival：`https://www.curragh.ie/event/irishchampionsfestival/`
+- Racing Post Frankel profile：`https://www.racingpost.com/profile/horse/763453/frankel`
+- Racing Post Enable profile：`https://www.racingpost.com/profile/horse/1236333/enable`
+- Racing Post Sea The Stars profile：`https://www.racingpost.com/profile/horse/695547/sea-the-stars`
+- Racing Post Zarkava profile：`https://www.racingpost.com/profile/horse/688202/zarkava`
+- netkeiba English Zarkava：`https://en.netkeiba.com/db/horse/000a0126d7/`
+- Wikipedia Irish 2,000 Guineas, Irish Derby, Grand Prix de Paris and Prix Vermeille for background only。
+- Breeders' Cup official program / race list：`https://breederscup.com/program`
+- Breeders' Cup race order and wagering menu：`https://breederscup.com/news/2025/final-2025-breeders-cup-race-order-post-times-wagering-menu`
+- Equibase Secretariat profile：`https://www.equibase.com/profiles/Results.cfm?refno=444670&registry=T&type=Horse`
+- Equibase Zenyatta profile：`https://www.equibase.com/profiles/Results.cfm?refno=7156465&registry=T&type=Horse`
+- Equibase Flightline profile：`https://www.equibase.com/profiles/Results.cfm?refno=10425358&registry=T&type=Horse`
+- Racing Post American Pharoah profile：`https://www.racingpost.com/profile/horse/868021/american-pharoah`
+- Racing Post Arrogate profile：`https://www.racingpost.com/profile/horse/1114225/arrogate`
+- Racing Post Justify profile：`https://www.racingpost.com/profile/horse/1846168/justify`
+- Wikipedia Breeders' Cup, Juvenile Turf, American Pharoah and Flightline pages for background only。
+- JRA Owner Registration：`https://japanracing.jp/en/about/jra/owner.html`
+- JRA Owner FAQ / activities guide：`https://www.jra.go.jp/owner/howto/regist/pdf/katsudou_en.pdf`
+- Horse Racing in Japan Breeding & Sales：`https://japanracing.jp/en/about/breeding/`
+- netkeiba English database / owner and breeder rankings：`https://en.netkeiba.com/db/`
+- netkeiba English owner leading ranking：`https://en.netkeiba.com/db/owner/owner_leading.html`
+- netkeiba 2024 JRA owners rankings by earnings：`https://en.netkeiba.com/news/news_detail.html?id=1830`
+- Northern Farm official site：`https://www.northernfarm.jp/`
+- Shadai Thoroughbred Club official English site：`https://www.shadaitc.co.jp/en/`
+- Godolphin official site：`https://www.godolphin.com/`
+- Juddmonte official history：`https://juddmonte.com/history/`
+- Coolmore official site：`https://coolmore.com/`
+- Wikipedia Northern Farm, Shadai Stallion Station and Godolphin pages for background only。
+- Asian Racing Report article on Japan racing club phenomenon for background only：`https://asianracingreport.com/fan-power-drives-japans-racing-club-phenomenon/`
+- Dubai Racing Club official site / race calendar：`https://dubairacingclub.com/`
+- Dubai Racing Club Dubai World Cup Day nominations / race programme context：`https://dubairacingclub.com/press-releases/forever-young-calandagan-headline-stellar-dubai-world-cup-day-nominations/`
+- Dubai Racing Club Dubai World Cup official brochure PDF：`https://dubairacingclub.com/wp-content/uploads/2025/03/2025-DWC-Nomination-Borchure_English-compressed_9.pdf`
+- Jockey Club of Saudi Arabia Saudi Cup official page：`https://jcsa.sa/en/saudi-cup/`
+- Jockey Club of Saudi Arabia Saudi Cup story so far：`https://jcsa.sa/en/saudi-cup/saudi-cup-story-so-far/`
+- Jockey Club of Saudi Arabia Saudi Cup race meeting page：`https://jcsa.sa/en/races/20260214`
+- Ascot Royal Ascot official page：`https://www.ascot.com/royal-ascot`
+- Ascot Royal Ascot racing guide：`https://www.ascot.com/royal-ascot/royal-ascot-racing-guide`
+- Ascot race times：`https://www.ascot.com/race-times`
+- Racing Post Galileo profile：`https://www.racingpost.com/profile/horse/531769/galileo`
+- Racing Post Dubawi profile：`https://www.racingpost.com/profile/horse/589690/dubawi`
+- Racing Post Nijinsky profile：`https://www.racingpost.com/profile/horse/301667/nijinsky`
+- Racing Post Mill Reef profile：`https://www.racingpost.com/profile/horse/301543/mill-reef`
+- Timeform Mill Reef feature：`https://www.timeform.com/horse-racing/features/top-horses/greatest-racehorses-mill-reef-2352020`
+- Racing Post Dancing Brave profile：`https://www.racingpost.com/profile/horse/303732/dancing-brave`
+- Racing Post Brigadier Gerard profile：`https://www.racingpost.com/profile/horse/300336/brigadier-gerard`
+- Racing Post Baaeed profile：`https://www.racingpost.com/profile/horse/3533559/baaeed`
+- Racing Post Sea Bird II profile：`https://www.racingpost.com/profile/horse/304049/sea-bird-ii`
+- Racing Post Ribot profile：`https://www.racingpost.com/profile/horse/303128/ribot`
+- Racing Post Montjeu profile：`https://www.racingpost.com/profile/horse/503034/montjeu`
+- Racing Post Urban Sea profile：`https://www.racingpost.com/profile/horse/76594/urban-sea`
+- Racing Post Sadler's Wells profile：`https://www.racingpost.com/profile/horse/463975/sadlers-wells`
+- netkeiba English Sadler's Wells profile：`https://en.netkeiba.com/db/horse/000a00185d/`
+- Wikipedia Nijinsky, Galileo, Dancing Brave, Brigadier Gerard, Sea Bird, Ribot, Montjeu and Urban Sea pages for background only。
+- British Horseracing Authority official site：`https://www.britishhorseracing.com/`
+- The Jockey Club explanation of BHA：`https://www.thejockeyclub.co.uk/the-racing/racing-explained/glossary/what-is-the-british-horseracing-authority/`
+- France Galop official site：`https://www.france-galop.com/en`
+- France Galop ticketing racecourse list：`https://billetterie.france-galop.com/en/home/`
+- France Galop ParisLongchamp racecourse：`https://billetterie.france-galop.com/en/racecourses/parislongchamp/`
+- Horse Racing Ireland official site：`https://www.hri.ie/`
+- Horse Racing Ireland Leopardstown page：`https://www.hri.ie/leopardstown-racecourse`
+- Irish Horseracing Regulatory Board ground reports：`https://www.ihrb.ie/ground-reports/`
+- Racing Australia official site：`https://m.racingaustralia.horse/`
+- Equibase official site：`https://www.equibase.com/`
+- The Jockey Club Equibase company page：`https://www.jockeyclub.com/default.asp?area=3&section=Companies`
+- New York Racing Association corporate page：`https://www.nyra.com/inc/`
+- NYRA Saratoga Race Course：`https://www.nyra.com/saratoga/`
+- NYRA Aqueduct Racecourse：`https://www.nyra.com/aqueduct/`
+- The Jockey Club Epsom Derby Festival：`https://www.thejockeyclub.co.uk/epsom-derby/`
+- The Jockey Club Epsom Downs Racecourse：`https://www.thejockeyclub.co.uk/epsom/`
+- The Jockey Club Newmarket Racecourse：`https://www.thejockeyclub.co.uk/newmarket/`
+- Churchill Downs official site：`https://www.churchilldowns.com/`
+- Keeneland official site：`https://www.keeneland.com/`
+- Keeneland sales：`https://www.keeneland.com/sales/`
+- Del Mar Thoroughbred Club official site：`https://www.dmtc.com/`
+- Del Mar Breeders' Cup event page：`https://www.dmtc.com/calendar/detail/BC25`
+- Santa Anita Park official site：`https://www.santaanita.com/`
+- Santa Anita racing information：`https://www.santaanita.com/racing-information/`
+- Australian Turf Club official race calendar：`https://www.australianturfclub.com.au/races/`
+- Australian Turf Club Royal Randwick：`https://www.australianturfclub.com.au/meetings-and-events/royal-randwick/`
+- Racing Victoria official site：`https://www.racingvictoria.com.au/`
+- Victoria Racing Club official site：`https://www.vrc.com.au/`
+- Melbourne Racing Club official site：`https://mrc.racing.com/`
+- Moonee Valley Racing Club official site：`https://www.thevalley.com.au/`
+- Brisbane Racing Club official site：`https://www.brc.com.au/`
+- Racing Queensland official site：`https://www.racingqueensland.com.au/`
+- New Zealand Thoroughbred Racing / Love Racing official site：`https://loveracing.nz/`
+- Love Racing race information：`https://loveracing.nz/RaceInfo.aspx`
+- Auckland Thoroughbred Racing official site：`https://www.aucklandracing.co.nz/`
+- Auckland Thoroughbred Racing Karaka Millions：`https://www.aucklandracing.co.nz/racedays/karaka-millions/`
+- Waikato Thoroughbred Racing official site：`https://waikatoracing.co.nz/`
+- RACE Trentham / Jointheaction event listings：`https://jointheaction.co.nz/`
+- New Zealand Bloodstock Karaka Millions Series：`https://www.nzb.co.nz/karakamillions`
+- Wikipedia Trentham Racecourse, New Zealand Derby and Ellerslie Racecourse pages for background only。
+- Horse Racing in Japan 2023 leading jockey statistics：`https://japanracing.jp/_statistics/2023/s10.html`
+- Horse Racing in Japan 2024 leading trainer statistics：`https://japanracing.jp/_statistics/2024/s09.html`
+- Horse Racing in Japan 2024 JRA Awards：`https://japanracing.jp/en/racing/news_media/awards/jra/2024.html`
+- netkeiba 2024 JRA leading jockey rankings：`https://en.netkeiba.com/news/news_detail.html?id=1832`
+- netkeiba 2025 JRA leading jockey title article：`https://en.netkeiba.com/news/news_detail.html?id=3217`
+- netkeiba 2024 JRA trainers rankings：`https://en.netkeiba.com/news/news_detail.html?id=1833`
+- HKJC overseas jockey/trainer ranking pages for Japanese race meetings：`https://racing.hkjc.com/racing/overseas/english/20241222/S1/1/jockey-trainer-ranking.aspx?para=%2F20241222%2FS1%2F1`
+- Wikipedia pages for Yutaka Take, Christophe Lemaire, Mirco Demuro, Yuichi Fukunaga and selected Japanese racing people for background only。
+- HKJC Zac Purton jockey profile：`https://racing.hkjc.com/en-us/local/information/jockeyprofile?jockeyid=PZ`
+- HKJC Hugh Bowman jockey profile：`https://racing.hkjc.com/en-us/local/information/jockeyprofile?jockeyid=BH`
+- Equibase Breeders' Cup jockeys page：`https://www.equibase.com/content/bc/probablejockeys.cfm`
+- Equibase jockey yearly leaders：`https://www.equibase.com/stats/View.cfm?tb=jockey&tf=year`
+- America's Best Racing Equibase leaderboard articles for Irad Ortiz Jr. and Flavien Prat context：`https://www.americasbestracing.net/the-sport/2026-equibase-leaderboard-irad-ortiz-jr-surpasses-16-million-2026-earnings`
+- Racing Post William Buick 2,000th winner article：`https://www.racingpost.com/news/britain/william-buick-joins-elite-group-of-current-jockeys-to-have-ridden-their-2000th-winner-in-britain-aQZK83E9FHNx/`
+- Racing Post Craven Stakes runners / trainer context：`https://www.racingpost.com/news/britain/confirmed-runners-and-riders-for-the-craven-stakes-as-aidan-obrien-unleashes-classic-contender-cambridge-aHQod8m9P6K9/`
+- Racing Post Prix de l'Arc de Triomphe entries / trainer context：`https://www.racingpost.com/news/festivals/prix-de-larc-de-triomphe/aidan-obrien-enters-ten-as-73-horses-are-put-into-the-mix-for-the-prix-de-larc-de-triomphe-aBsQe7w2SMNU/`
+- Wikipedia pages for Ryan Moore, Frankie Dettori, Aidan O'Brien, Charlie Appleby, John Gosden, Andre Fabre, Chris Waller, Bob Baffert and selected overseas racing people for background only。
+- netkeiba English Hishi Amazon：`https://en.netkeiba.com/db/horse/1991109852/`
+- netkeiba English Air Groove：`https://en.netkeiba.com/db/horse/1993109154/`
+- netkeiba English King Halo：`https://en.netkeiba.com/db/horse/1995104427/`
+- netkeiba English Seiun Sky：`https://en.netkeiba.com/db/horse/1995107393/`
+- netkeiba English T.M. Opera O：`https://en.netkeiba.com/db/horse/1996100292/`
+- netkeiba English Meisho Doto：`https://en.netkeiba.com/db/horse/1996110113/`
+- netkeiba English Jungle Pocket：`https://en.netkeiba.com/db/horse/1998101786/`
+- netkeiba English Tanino Gimlet：`https://en.netkeiba.com/db/horse/1999100226/`
+- netkeiba English Zenno Rob Roy：`https://en.netkeiba.com/db/horse/2000101517/`
+- netkeiba English Kizuna：`https://en.netkeiba.com/db/horse/2010105827/`
+- JBIS Kizuna：`https://www.jbis.jp/horse/0001120570/`
+- Wikipedia Hishi Amazon, Air Groove, King Halo, Seiun Sky, T.M. Opera O, Meisho Doto, Jungle Pocket, Tanino Gimlet, Zenno Rob Roy and Kizuna pages for background only。
+- netkeiba English Maurice：`https://en.netkeiba.com/db/horse/2011100655/`
+- netkeiba English Fenomeno：`https://en.netkeiba.com/db/horse/2009106599/`
+- netkeiba English Fierement：`https://en.netkeiba.com/db/horse/2015105075/`
+- netkeiba English Rey de Oro：`https://en.netkeiba.com/db/horse/2014106201/`
+- netkeiba English Suave Richard：`https://en.netkeiba.com/db/horse/2014106083/`
+- netkeiba English Wagnerian：`https://en.netkeiba.com/db/horse/2015105022/`
+- netkeiba English Blast Onepiece：`https://en.netkeiba.com/db/horse/2015104882/`
+- netkeiba English Persian Knight：`https://en.netkeiba.com/db/horse/2014105258/`
+- netkeiba English Indy Champ：`https://en.netkeiba.com/db/horse/2015104688/`
+- netkeiba English Danon Premium：`https://en.netkeiba.com/db/horse/2015102367/`
+- netkeiba English Gran Alegria：`https://en.netkeiba.com/db/horse/2016104532/`
+- netkeiba English Admire Mars：`https://en.netkeiba.com/db/horse/2016104422/`
+- netkeiba English Salios：`https://en.netkeiba.com/db/horse/2017105327/`
+- netkeiba English Lei Papale：`https://en.netkeiba.com/db/horse/2017105335/`
+- netkeiba English Efforia：`https://en.netkeiba.com/db/horse/2018105027/`
+- netkeiba English Shahryar：`https://en.netkeiba.com/db/horse/2018105165/`
+- netkeiba English Jack d'Or：`https://en.netkeiba.com/db/horse/2018100274/`
+- netkeiba English Justin Palace：`https://en.netkeiba.com/db/horse/2019105346/`
+- JBIS Gran Alegria：`https://www.jbis.jp/horse/0001220947/`
+- Wikipedia Maurice, Gran Alegria, Shahryar, Efforia, Suave Richard, Blast Onepiece and selected recent Japanese racehorse pages for background only。
+- Horse Racing in Japan JRA Training Centers PDF：`https://japanracing.jp/en/jpn-racing/guide/pdf/horseracing_en_06.pdf`
+- Horse Racing in Japan Training Centers page：`https://japanracing.jp/en/about/jra/center.html`
+- Horse Racing in Japan Ritto Training Center PDF：`https://japanracing.jp/en/about/jra/pdf/ritto.pdf`
+- HKJC form study help / pace and bias terms：`https://www.hkjc.com/english/formguide/formstudy_help.asp`
+- HKJC Learn Racing track bias discussion：`https://racing.hkjc.com/racing/english/learn-racing/learn-question.aspx`
+- The Jockey Club racing glossary：`https://www.thejockeyclub.co.uk/the-racing/racing-explained/glossary/`
+- Great British Racing jargon buster：`https://www.greatbritishracing.com/guide-to-racing/jargon-buster/`
+- Saratoga Race Track glossary for boxed in, rail and rank background：`https://www.saratogaracetrack.com/about-horse-racing/glossary-racing-terms/`
+- Asian Racing Report track bias explainer for background only：`https://asianracingreport.com/form-pointers-track-bias/`
+- Horse Racing in Japan Thoroughbred & Stud Book Databases：`https://japanracing.jp/en/about/jbis.html`
+- Horse Racing in Japan Breeding & Sales：`https://japanracing.jp/en/about/breeding/`
+- Japan Bloodhorse Breeders' Association official site：`https://jbba.jp/en/`
+- JBIS Search official site：`https://www.jbis.jp/`
+- Japan Racing Horse Association Select Sale official site：`https://www.jrha-selectsale.com/`
+- Japan Stud Book conditions PDF：`https://www.studbook.jp/en/kyokai/pdf/e-kitei.pdf`
+- Keeneland November Breeding Stock Sale：`https://www.keeneland.com/events/keeneland-november-breeding-stock-sale`
+- Keeneland Thoroughbred terminology black type：`https://www.keeneland.com/racing/terms-old/b`
+- Keeneland Sales catalog：`https://catalog.keeneland.com/`
+- Racing Post Tattersalls sales lingo explainer：`https://www.racingpost.com/bloodstock/sales-lingo-explained-breaking-down-the-key-terms-used-at-tattersalls-book-1-azWQm8T3Am3q/`
+- Tattersalls pedigree compilation criteria PDF：`https://secure.tattersalls.com/4DCGI/Sale/Documentation/WSD00922.pdf`
+- Washington Thoroughbred terminology for black type background：`https://washingtonthoroughbred.com/thoroughbred-terminology/`
+- JRA 出走馬決定順一覧（特別登録）の見方：`https://www.jra.go.jp/keiba/tokubetsu/mikata.html`
+- Horse Racing in Japan JRA Rules of Racing：`https://japanracing.jp/en/horsemen/jra_rules/rules_racing.html`
+- Horse Racing in Japan Japanese Classics Entries and Declaration Procedures：`https://japanracing.jp/en/horsemen/classic_races/entries.html`
+- JRA 競馬学校 騎手の1日：`https://www.jra.go.jp/school/jockey/timeline/weekend.html`
+- JRA 用語辞典 非抽選馬：`https://www.jra.go.jp/kouza/yougo/w295.html`
+- JRA 馬主 FAQ 特別競走と特別登録料：`https://www.jra.go.jp/owner/members/faq/category_e.html`
+- JRA 中山競馬場主要施設：`https://www.jra.go.jp/facilities/race/nakayama/rcmap/index.html`
+- JRA FAQ 出馬表發表時間：`https://jra.jp/faq/pop02/2_2.html`
+- JRA Race Card & Results：`https://jra.jp/JRAEN/AP/common/main`
+- JRA 用語辞典 出走取消：`https://www.jra.go.jp/kouza/yougo/si_list.html`
+- JRA FAQ 出走取消與競走除外：`https://jra.jp/faq/pop02/2_7.html`
+- Horse Racing in Japan Beginner's Guide：`https://japanracing.jp/en/racing/go_racing/guide/video.html`
+- Radio Nikkei 競走除外馬優先出走権 background：`https://www.radionikkei.jp/keiba_article/news/post_18090.html`
+- Silk Horse Club 除外權 FAQ background：`https://www.silkhorseclub.jp/qa/race/detail03.html`
+- Hokkaido Keiba 用語辞典 background：`https://www.hokkaidokeiba.net/guide/dictionary/dic01.php`
+- Wikipedia 出馬投票 page for background only。
+- JRA 降着・失格のルール解説：`https://www.jra.go.jp/judge/`
+- JRA 馬券のルール：`https://www.jra.go.jp/kouza/baken/`
+- JRA 競馬のルール レースの確定：`https://www.jra.go.jp/keiba/rules/kakutei.html`
+- JRA 用語辞典 斜行：`https://www.jra.go.jp/kouza/yougo/w250.html`
+- JRA 用語辞典 騎乗停止：`https://www.jra.go.jp/kouza/yougo/w170.html`
+- JRA 用語辞典 審議：`https://www.jra.go.jp/kouza/yougo/w264.html`
+- JRA 用語辞典 検量：`https://www.jra.go.jp/kouza/yougo/w237.html`
+- JRA 用語辞典 調教停止：`https://www.jra.go.jp/kouza/yougo/w182.html`
+- JRA 用語辞典 裁定委員会：`https://www.jra.go.jp/kouza/yougo/w309.html`
+- JRA 用語辞典 レース、騎乗技術など一覧：`https://www.jra.go.jp/kouza/yougo/c10010_list.html`
+- JRA 用語辞典 競馬関係の法律、施行規程、公正確保など一覧：`https://www.jra.go.jp/kouza/yougo/c10130_list.html`
+- JRA 開催業務内容：`https://jra-saiyou.jp/category-02/duties-race/`
+- Horse Racing in Japan Rules of Racing：`https://japanracing.jp/en/horsemen/jra_rules/rules_racing.html`
+- netkeiba 騎手・調教師への罰則一覧：`https://dir.netkeiba.com/keibamatome/detail.html?no=3426`
+- 競馬ブック 戒告：`https://www.keibabook.co.jp/homepage/sp/dictionary/ka/ka_005.html`
+- JRA 用語辞典 競馬で使用する様々な道具一覧：`https://www.jra.go.jp/kouza/yougo/c10040_list.html`
+- JRA 用語辞典 競馬で使用する様々な道具：`https://www.jra.go.jp/kouza/yougo/c10040.html`
+- JRA 海外競馬英和辞典 馬装具一覧：`https://www.jra.go.jp/keiba/overseas/yougo/c10100_list.html`
+- netkeiba 馬具まとめ：`https://dir.netkeiba.com/keibamatome/detail.html?no=2660`
+- Somes Saddle 頭絡とハミ background：`https://www.somes.co.jp/blog/35853/`
+- JRDB 馬具図鑑 リングハミ background：`https://note.com/jrdbn/n/nfbd4803586e9`
+- JRA サラブレッド講座 毛色の種類：`https://www.jra.go.jp/kouza/thoroughbred/color/`
+- JAIRS 馬の毛色と特徴 毛色：`https://www.jairs.jp/contents/procedure/keiro.html`
+- JAIRS 馬の毛色と特徴 頭部の白斑：`https://www.jairs.jp/sp/contents/procedure/toubu.html`
+- JRA 用語辞典 馬体の各部位、特徴、個体の分類など一覧：`https://www.jra.go.jp/kouza/yougo/c10150_list.html`
+- JRA 用語辞典 新馬戦：`https://jra.jp/kouza/yougo/w266.html`
+- Hokkaido Keiba 用語辞典 セン馬 background：`https://www.hokkaidokeiba.net/guide/dictionary/dic03.php`
+- netkeiba 競走馬の毛色解説 background：`https://dir.netkeiba.com/keibamatome/detail.html?no=3008`
+- JRA 用語辞典 追い切り：`https://www.jra.go.jp/kouza/yougo/w449.html`
+- JRA 栗東トレーニング・センター施設ガイド：`https://www.jra.go.jp/facilities/tc/rittou/guide/`
+- JRA 美浦トレーニング・センター施設ガイド：`https://jra.jp/facilities/tc/miho/guide/`
+- Horse Racing in Japan Miho Training Center PDF：`https://japanracing.jp/en/about/jra/pdf/miho.pdf`
+- JRA-VAN 調教タイムの見方：`https://jra-van.jp/fun/training/02/`
+- netkeiba 競走馬の調教施設・調教用語の一覧：`https://dir.netkeiba.com/keibamatome/detail.html?no=3116`
+- netkeiba 調教タイム FAQ：`https://support.keiba.netkeiba.com/hc/ja/articles/18932664402713-%E8%AA%BF%E6%95%99%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%A3%E3%81%A6`
+- Odds Park 強目 glossary：`https://www.oddspark.com/keiba/glossary/keyword/tu/79333.html`
+- JRA 馬場情報：`https://www.jra.go.jp/keiba/baba/`
+- JRA 馬場情報 クッション値に関する基礎知識：`https://www.jra.go.jp/keiba/baba/cushion/`
+- JRA 馬場情報 阪神競馬場：`https://www.jra.go.jp/keiba/baba/index2.html`
+- JRA 馬場概要 中山競馬場 example：`https://jra.jp/keiba/baba/overview/2022_4_nakayama.html`
+- JRA Facilities 馬場・営繕保守：`https://www.jra-f.co.jp/services/track`
+- HKJC Course Information / Going table：`https://racing.hkjc.com/en-us/local/page/racing-course`
+- HKJC Form Study Help / GOING abbreviations：`https://www.hkjc.com/english/formguide/formstudy_help.asp`
+- JRA-VAN 重馬場・不良馬場 background：`https://jra-van.jp/fun/baken/index23.html`
+- JRA 競馬のルール 負担重量：`https://www.jra.go.jp/keiba/rules/weight.html`
+- JRA 用語辞典 減量制度：`https://www.jra.go.jp/kouza/yougo/w574.html`
+- HKJC Handicapping Policy：`https://racing.hkjc.com/racing/english/racing-info/handicap_policy.asp`
+- HKJC Owners' Handbook：`https://members.hkjc.com/-/media/Sites/JCEW/member/image/common/owners-handbook-full-e.pdf`
+- Racing Victoria Handicapping：`https://www.racingvictoria.com.au/racing/handicapping`
+- Racing NSW Benchmark and Handicapping Guide：`https://www.racingnsw.com.au/wp-content/uploads/Racing-NSW-Benchmark-and-Handicapping-Guide-1Nov2010.pdf`
+- NZTR Handicapping Policy background：`https://loveracing.nz/Downloads/nztr_handicappingpolicy2011%20web.pdf`
+- British Horseracing Authority handicap weights explainer：`https://www.britishhorseracing.com/races-can-horse-run-handicap-rating/`
+- JRA-VAN 斤量與ハンデ戦 background：`https://jra-van.jp/fun/baken/index25.html`
+- JRA 用語辞典 ハロン棒：`https://www.jra.go.jp/kouza/yougo/w490.html`
+- JRA 用語辞典 コーナー：`https://www.jra.go.jp/kouza/yougo/w409.html`
+- JRA 用語辞典 マイラー：`https://jra.jp/kouza/yougo/ma_list.html`
+- HKJC Form Study Help / Horse Sectional Times：`https://www.hkjc.com/english/formguide/formstudy_help.asp`
+- HKJC Course Standard and Sectional Times：`https://racing.hkjc.com/racing/english/racing-info/racing_course_time.aspx`
+- Laurel Park furlong explainer background：`https://www.laurelpark.com/what-furlong-and-please-explain-distances`
+- RacingClub glossary for home straight / distance background：`https://racingclub.com/glossary/`
+- 競馬ブック バックストレッチ：`https://www.keibabook.co.jp/homepage/sp/dictionary/ha/ha_010.html`
+- Pegasus World Cup official site：`https://www.pegasusworldcup.com/`
+- Gulfstream Park Pegasus World Cup event page：`https://www.gulfstreampark.com/event/entertainment%2Fpegasus-world-cup/`
+- Gulfstream Park Florida Derby official site：`https://floridaderby.com/`
+- NYRA official site and race news for Jockey Club Gold Cup, Whitney, Sword Dancer, Woodward and Metropolitan Handicap context：`https://www.nyra.com/`
+- Monmouth Park Haskell official page：`https://www.monmouthpark.com/haskell/`
+- Parx Racing Pennsylvania Derby / Cotillion page：`https://www.parxracing.com/paderby.php`
+- Penn Horse Racing Pennsylvania Derby / Cotillion event page：`https://pennhorseracing.com/event/2026-pennsylvania-derby-parx-racing/`
+- Kentucky Derby official prep races and Blue Grass profile：`https://www.kentuckyderby.com/prep-races/`
+- Kentucky Derby Blue Grass race page：`https://www.kentuckyderby.com/races/blue-grass/`
+- Auckland Thoroughbred Racing official site：`https://www.aucklandracing.co.nz/`
+- Wikipedia pages for Auckland Cup, Pegasus World Cup, Whitney Stakes and selected United States stakes for background only。
+- Equibase horse profiles for Rachel Alexandra, Curlin, Tiznow and selected United States horses：`https://www.equibase.com/profiles/Results.cfm`
+- National Museum of Racing Hall of Fame horse index：`https://www.racingmuseum.org/hall-of-fame`
+- National Museum of Racing Hall of Fame Spectacular Bid profile：`https://www.racingmuseum.org/hall-of-fame/horse/spectacular-bid-ky`
+- NYRA Triple Crown winners profile for War Admiral：`https://www.nyra.com/belmont-stakes/history/triple-crown-winners/war-admiral/`
+- Secretariat.com historical articles for Cigar, Seattle Slew and related United States champions background：`https://www.secretariat.com/`
+- Wikipedia pages for United States Hall of Fame racehorses for background only。
+- HKJC 2026 Takarazuka Kinen overseas race card：`https://racing.hkjc.com/zh-hk/overseas/race-card?RaceDate=20260614&RaceNo=7&Racecourse=S2&focus=Y`
+- HKJC 2026 Takarazuka Kinen horse comments：`https://racingnews.hkjc.com/chinese/2026/06/12/s27%E5%AF%B6%E5%A1%9A%E7%B4%80%E5%BF%B5%E8%B3%BD%E5%8F%83%E8%B3%BD%E9%A6%AC%E5%8C%B9%E7%B0%A1%E8%A9%95/`
+- Umanity Racing 2026 Takarazuka Kinen workout notes：`https://umanityracing.com/zh/sp/news/detail.php?nid=4147`
+- Flameracing 2026 Takarazuka Kinen preview：`https://flameracing.net/2026/06/11/2026-takarazuka-preview/`
+- netkeiba English Curren Black Hill：`https://en.netkeiba.com/db/horse/2009106230/`
+- HKJC Queen Elizabeth II Cup 2015 nominations for Curren Black Hill：`https://www.hkjc.com/chinese/corporate/racing_news_item.asp?in_file=%2Fchinese%2Fnews%2F2015-03%2Fnews_2015031801527.html`
+- HKJC World Racing Championships 2005 Japan Cup result for Heavenly Romance：`https://www.hkjc.com/chinese/special/wrc/2005/wrc05_leg12.asp`
+- HKJC Takarazuka Kinen 2017 entries for Mikki Rocket：`https://racing.hkjc.com/racing/overseas/chinese/20170625/S2/1/entries.aspx?para=%2F20170625%2FS2%2F1`
+- HKJC Tokyo Yushun 2017 reference odds for Rey de Oro：`https://racing.hkjc.com/racing/overseas/chinese/20170528/S1/1/reference-odds.aspx?para=%2F20170528%2FS1%2F1`
+- HKJC overseas entries for Roger Barows：`https://racing.hkjc.com/racing/overseas/english/20181014/S1/3/entries.aspx?para=%2F20181014%2FS1%2F3`
+- WP Stud Biko Pegasus profile for Chinese name background：`https://www.wpstud.com/horseintro/jpnhorse/BikoPegasus.htm`
+- Chinese Wikipedia Redentor horse page for background only：`https://zh.wikipedia.org/wiki/%E6%8B%AF%E6%95%91%E8%80%85_(%E9%A6%AC)`
+
+## 引用規則
+
+- 詞條列只填 `來源等級`，不在每列放 URL。
+- 若同一詞條同時有 A 與 B 來源，來源等級可標 A；但定義不可超出來源可證明範圍。
+- 維基百科只作背景補強，不單獨決定中文主譯名。
+- 馬名中文若來自 HKJC 出馬表，可標 `官方` 與 A；若只有英文或日文來源，不硬翻。
